@@ -1,0 +1,2 @@
+class Cycler < ApplicationRecord
+end
