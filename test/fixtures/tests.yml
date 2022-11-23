@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cycler: one
+  name: MyString
+  creator: MyString
+  comments: MyString
+
+two:
+  cycler: two
+  name: MyString
+  creator: MyString
+  comments: MyString

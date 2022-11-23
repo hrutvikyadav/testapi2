@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  test_object: one
+  item_name: MyString
+  description: MyString
+  value: 1.5
+  mandatory: false
+
+two:
+  test_object: two
+  item_name: MyString
+  description: MyString
+  value: 1.5
+  mandatory: false

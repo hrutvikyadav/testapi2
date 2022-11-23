@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  test: one
+  data_point: 1.5
+  test_time_secs: 1.5
+  step_time_secs: 1.5
+  cycle_index: 1
+  step_index: 1
+  current_amps: 1.5
+  voltage_volts: 1.5
+  power_watts: 1.5
+
+two:
+  test: two
+  data_point: 1.5
+  test_time_secs: 1.5
+  step_time_secs: 1.5
+  cycle_index: 1
+  step_index: 1
+  current_amps: 1.5
+  voltage_volts: 1.5
+  power_watts: 1.5
